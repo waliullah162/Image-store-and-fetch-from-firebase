@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    
+    <Button
+        android:id="@+id/chooseButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose an Image"
+        android:backgroundTint="@color/colorPrimary"
+        />
+
+     <EditText
+         android:id="@+id/imageTitleEditTextId"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Enter the Image Title"
+         android:paddingBottom="20dp"
+         />
+
+    <ImageView
+        android:id="@+id/imageviewId"
+        android:layout_width="match_parent"
+        android:layout_height="396dp"
+        android:src="@drawable/banner"
+        android:paddingBottom="20dp"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBarId"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp"
+        />
+
+    <Button
+        android:id="@+id/saveButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Save Image"
+        android:paddingBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/displayButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:text="Display Image"
+        />
+
+    
+
+</LinearLayout>

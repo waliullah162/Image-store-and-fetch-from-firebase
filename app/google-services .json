@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "530355698214",
+    "firebase_url": "https://pushnotifiapplicationfirebase.firebaseio.com",
+    "project_id": "pushnotifiapplicationfirebase",
+    "storage_bucket": "pushnotifiapplicationfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530355698214:android:eddb888955b684a820c4e7",
+        "android_client_info": {
+          "package_name": "com.example.imagestoreandfetchfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGWjHqvEc_ym_sxHdrzkhaNYXe3TBYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530355698214:android:9379d455eae4e38520c4e7",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifiapplicationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGWjHqvEc_ym_sxHdrzkhaNYXe3TBYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530355698214:android:5d2cf81403e33f9c20c4e7",
+        "android_client_info": {
+          "package_name": "com.example.storedatainfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGWjHqvEc_ym_sxHdrzkhaNYXe3TBYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530355698214-cf2btffkpsb5eh6s5mmi09fcpatgfjcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
